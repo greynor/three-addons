@@ -1,5 +1,5 @@
 {
-  "name": "three-addons",
+  "name": "three-addons-latest",
   "version": "1.1.0",
   "description": "A collection of Three.js addons",
   "main": "./build/three-addons.min.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcofugaro/three-addons"
+    "url": "https://github.com/greynor/three-addons"
   },
   "keywords": [
     "three",
